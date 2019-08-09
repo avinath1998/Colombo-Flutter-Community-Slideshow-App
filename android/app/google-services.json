@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "980949228983",
+    "firebase_url": "https://fluttermeetupdemo.firebaseio.com",
+    "project_id": "fluttermeetupdemo",
+    "storage_bucket": "fluttermeetupdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980949228983:android:fea3528b4b9285db",
+        "android_client_info": {
+          "package_name": "colombofluttermeetup.fluttercmbmeetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980949228983-jrv6em4jccauuju782uhkcbjim3h0uok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmX9sg9LDPfnHvvfDOZE3Yjj5EKU5EU0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
